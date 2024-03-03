@@ -1,0 +1,4 @@
+﻿  Source.cpp
+U:\CS210_Project2_MatthewDurish\CS210_Project2_MatthewDurish\Source.cpp(69,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\CS210_Project2_MatthewDurish\CS210_Project2_MatthewDurish\Source.cpp(110,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CS210_Project2_MatthewDurish.vcxproj -> U:\CS210_Project2_MatthewDurish\Debug\CS210_Project2_MatthewDurish.exe
